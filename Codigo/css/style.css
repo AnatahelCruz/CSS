@@ -1,0 +1,16 @@
+table{
+    text-align: center;
+}
+.table-primary{
+    background-color: antiquewhite;
+}
+.table-secundary{
+    background-color: beige;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+col{
+    text-align: center;
+}
